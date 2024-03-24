@@ -6,6 +6,8 @@ Python Voice Assistant for Seamless Task Automation
 
 This Python project implements a voice-controlled assistant capable of transcribing speech into text, performing various tasks based on the transcribed commands, and utilizing different technologies and libraries for its functionalities.
 
+This Python project is a comprehensive voice-controlled assistant designed to enhance user productivity and accessibility through speech interaction. Leveraging a combination of advanced libraries and technologies, the assistant empowers users to perform a variety of tasks seamlessly using voice commands.
+
 **Technologies and Libraries Used:**
 
 1. **PyAudio:** PyAudio is a Python library that provides bindings for PortAudio, a cross-platform audio I/O library. It is used for audio input and output handling, including recording and playback.
