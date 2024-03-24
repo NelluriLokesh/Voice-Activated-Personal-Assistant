@@ -38,6 +38,11 @@ This Python project is a comprehensive voice-controlled assistant designed to en
 
 14. **random:** The random module provides functions for generating random numbers in Python. It is used for generating random passwords with embedded names based on user input.
 
+15. ** Voice-Controlled Assistant ** This project implements a voice-controlled assistant in Python, capable of transcribing speech into text and performing various tasks based on user commands. It utilizes several libraries and technologies for audio processing, speech recognition, automation, and integration with mapping services.
+
+
+   
+
 **Functionality Overview:**
 
 1. **Voice Input and Output Handling:**
